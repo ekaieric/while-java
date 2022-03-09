@@ -1,4 +1,4 @@
-# while Java Kata
+# While - Java Kata
 Exercises using while
 
 
